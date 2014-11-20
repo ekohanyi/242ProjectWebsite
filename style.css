@@ -1,0 +1,21 @@
+body{
+  background-color: #EBEBEB;
+  font-family: Arial;
+}
+
+
+#title{
+  margin-top: 20px;
+  background-color:#778488;
+}
+
+.row{
+  background-color: #FFF;
+  padding: 10px;
+}
+
+#podcastRow{
+  background-image: url("http://4.bp.blogspot.com/-HINf-JIVIMw/UjTZ5BNJzpI/AAAAAAAAdAo/Zw_fRdoxMvs/s640/DSC_0146.JPG");
+  background-position: bottom right;
+  background-repeat: no-repeat;
+}
