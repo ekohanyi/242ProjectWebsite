@@ -1,8 +1,16 @@
 body{
   background-color: #EBEBEB;
   font-family: Arial;
+  background-image: url('http://2.bp.blogspot.com/-IrLk_g8ulgo/U0aj0gxXrCI/AAAAAAAAFqs/_8GR9iED9zM/s1600/MelbourneCityExplored-43.jpg')
 }
 
+h1{
+  font-family: Lobster;
+}
+
+h4{
+  font-family: Lobster;
+}
 
 #title{
   margin-top: 20px;
