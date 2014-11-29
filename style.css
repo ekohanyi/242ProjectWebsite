@@ -1,10 +1,16 @@
 body{
-  background-color: #EBEBEB;
+  background-color: #000;
   font-family: Arial;
   color: #000;
-  background-image: url('http://2.bp.blogspot.com/-IrLk_g8ulgo/U0aj0gxXrCI/AAAAAAAAFqs/_8GR9iED9zM/s1600/MelbourneCityExplored-43.jpg')
+  background-image: url('http://static.squarespace.com/static/515e31a5e4b0875140ca08d1/t/51c9d527e4b0a39e8220ff44/1372181799900/project-renewal.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
+body div{
+  border-radius: 4px;
+}
 h1{
   font-family: Lobster;
 }
