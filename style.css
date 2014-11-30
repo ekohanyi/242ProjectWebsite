@@ -21,19 +21,24 @@ body {
   bottom: 0;
   /* Set the fixed height of the footer here */
   height: 50px;
-  background-color: #FFF;
+  background-color: #778488;
   color: #000;
   margin-left: -15px;
 }
 
 #footer div{
-  background-color: #FFF;
+  background-color: #778488;
 }
 
 #footer div p{
   padding-top: 7px;
   margin-bottom: -10px;
-  color: #000;
+  color: #FFF;
+  background-color: #778488;
+}
+
+#footer div p a{
+  color: #FFF;
 }
 h1{
   font-family: Lobster;
