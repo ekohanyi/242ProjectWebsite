@@ -19,6 +19,31 @@ h4{
   font-family: Lobster;
 }
 
+h5{
+  font-family: Lobster;
+  text-align: right;
+}
+
+h1, h5{
+  margin-bottom: -3px;
+}
+
+a:link{
+  color: #000;
+}
+
+a:visited{
+  color: #000;
+}
+
+h5 a:link{
+  color: #FFF;
+}
+
+h5 a:visited{
+  color: #FFF;
+}
+
 #title{
   margin-top: 20px;
   background-color:#778488;
